@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1584862310 source:/home/anonymous98/UCP/6semester/Analysis of Algorithm/Assignment-2/MystackClass/main.cpp
+	<iostream>
+	"Stack.h"
+
+1584862428 /home/anonymous98/UCP/6semester/Analysis of Algorithm/Assignment-2/MystackClass/include/Stack.h
+	<iostream>
+	<iomanip>
+	<vector>
+

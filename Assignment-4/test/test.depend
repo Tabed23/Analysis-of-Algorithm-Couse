@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1587491193 source:/home/anonymous98/UCP/6semester/Analysis of Algorithm/Assignment-4/test/main.cpp
+	<iostream>
+	<string.h>
+
